@@ -16,7 +16,7 @@
   "logoUrl": "",
   "motionBlur": false,
   "placeholderUrl": "https://thumb.cloud.mail.ru/weblink/thumb/xw1/Ft15/A85Bk9gYa/360_001/001.jpg",
-  "showPlaceholder": true,
+  "showPlaceholder": false,
   "speed": 50,
   "src": [
     "https://thumb.cloud.mail.ru/weblink/thumb/xw1/Ft15/A85Bk9gYa/360_001/001.jpg",
